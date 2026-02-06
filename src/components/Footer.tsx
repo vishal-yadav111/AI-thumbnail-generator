@@ -51,6 +51,7 @@ export default function Footer() {
                     <a href="https://www.youtube.com/@prebuiltui" target="_blank" rel="noreferrer">
                         <YoutubeIcon className="size-6 hover:text-pink-500" />
                     </a>
+                
                 </div>
                 <p className="mt-3 text-center">&copy; {new Date().getFullYear()} <a href="https://prebuiltui.com?utm_source=pixels">ThumbnaiLO BY Vishal Yadav</a></p>
             </motion.div>

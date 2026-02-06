@@ -5,6 +5,7 @@ import PricingSection from "../sections/PricingSection";
 import ContactSection from "../sections/ContactSection";
 import CTASection from "../sections/CTASection";
 
+
 export default function HomePage() {
     return (
         <>
@@ -14,6 +15,8 @@ export default function HomePage() {
             <PricingSection />
             <ContactSection />
             <CTASection />
+            
+        
         </>
     );
 }
